@@ -15,34 +15,34 @@
 
 
 body {
-    background:#fff;
+    background:#ffede7;
 }
 
 
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color:#d2b356;
+    color:#3E1400;
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#d2b356;
+    color:#3E1400;
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color:#d2b356;
+    color:#3E1400;
 }
 
 /* Border Color */
 
 #banner .section-heading:before, .testimonial.classic footer:before {
-    background: #d2b356;
+    background: #3E1400;
 }
 
 .pricing-block-content:hover {
-    border-color:#d2b356;
+    border-color:#3E1400;
 }
 
 
@@ -54,22 +54,22 @@ a:hover, #header.nav-solid nav a:hover {
 /* Transparent Navigation Color on a Banner */
 
 #header nav a, #header i {
-    color:#111;
+    color:#3E1400;
 }
 
 
 /* Navigation Colors when the Navigation is sticky and solid */ 
 
 #header.nav-solid, #header.nav-solid a, #header.nav-solid i, #nav-mobile ul li a {
-    color:#333;
+    color:#594e4e;
 }
 
 
 /* Navigation Active State */
 
 #header.nav-solid .active {
-    color: #d2b356;
-    border-color: #d2b356;
+    color: #3E1400;
+    border-color: #3E1400;
 }    
 
 
@@ -82,15 +82,15 @@ a:hover, #header.nav-solid nav a:hover {
 /* Primary Background and Text Colors */
 
 .primary-color, .featured .pricing {
-    background-color:#d2b356;
+    background-color:#3E1400;
 }
 
 .primary-color, .primary-color .section-title, .primary-color .section-subtitle, .featured .pricing, .featured .pricing p {
-    color:#fff;    
+    color:#c59277;    
 }
 
 .section-heading h2:after {
-    background:#d2b356;
+    background:#3E1400;
     content:"";
     display:block;
     width:30px;
@@ -105,14 +105,14 @@ a:hover, #header.nav-solid nav a:hover {
 /* Primary Icon Colors */
 
 .primary-color .icon i, .primary-color i {
-    color:#fff;
+    color:#c59277;
 }
 
 
 /* Secondary Background and Text Colors */
 
 .secondary-color {
-    background-color:#f5f5f5;
+    background-color:#c59277;
 }
 
 
@@ -124,7 +124,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;
+    background: url("../images/banner-images/banner-image-2.jpg") no-repeat center top;
     background-size:cover;
 }
 
@@ -138,7 +138,7 @@ body {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size:15px;
     font-weight:normal;
-    color:#111;
+    color:#3E1400;
 }
 
 /* Logo, if you are using Fonts as Logo and not image
@@ -167,14 +167,14 @@ body {
     font-size:62px;
     line-height:60px;
     font-weight:800;
-    color:#111;
+    color:#3E1400;
 }
 
 #banner h2 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size:18px;
     font-weight:300;
-    color:#111;
+    color:#8E3200;
 }
 
 
@@ -184,14 +184,14 @@ body {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 34px; 
     font-weight:700;
-    color:#111;
+    color:#3E1400;
 }
 
 .section-subtitle {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 16px;
     font-weight:300;
-    color:#9c9c9c;
+    color:#836255;
 }
 
 /* Testimonial */
@@ -203,7 +203,7 @@ body {
 }
 
 .testimonial.classic q, .testimonial.classic footer {
-    color:#111;
+    color:#3E1400;
 }
 
 
@@ -213,42 +213,42 @@ h1 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 40px; 
     font-weight:300;
-    color:#111;
+    color:#3E1400;
 }
 
 h2 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 34px; 
     font-weight:300;
-    color:#111;
+    color:#3E1400;
 }
 
 h3 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 30px; 
     font-weight:700;
-    color:#111;
+    color:#A1400F;
 }
 
 h4 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 18px; 
     font-weight:400;
-    color:#111;
+    color:#3E1400;
 }
 
 h5 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 16px; 
     font-weight:400;
-    color:#111;
+    color:#3E1400;
 }
 
 h6 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 14px; 
     font-weight:400;
-    color:#111;
+    color:#3E1400;
 }
 
 
@@ -265,22 +265,22 @@ h6 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size:14px;
     font-weight:bold;
-    color:#111;
+    color:#3E1400;
 }
 
 
 /* Button Color */
 
 .button, input[type="submit"] {
-    border-color:#111;
+    border-color:#3E1400;
 }
 
 
 /* Button Hover Color */
 
 .button:hover,  input[type="submit"]:hover {
-    border-color:#d2b356;
-    color:#d2b356;
+    border-color:#FF8C5B;
+    color:#FF8C5B;
 }
 
 
@@ -292,22 +292,22 @@ h6 {
 #banner .button {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size:16px;
-    color:#111;
+    color:#3E1400;
 }
 
 
 /* Button Color */
 
 #banner .button {
-    border-color:#111;
+    border-color:#3E1400;
 }
 
 
 /* Button Hover Color */
 
 #banner .button:hover {
-    color:#d2b356;
-    border-color:#d2b356;
+    color:#FF8C5B;
+    border-color:#FF8C5B;
 }
 
 
@@ -319,11 +319,11 @@ h6 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size:12px;
     font-weight:normal;
-    color:#999;
+    color:#77574B;
 }
 
 /* Footer Icon Color */
 
 #landing-footer i {
-    color:#999;
+    color:#77574B;
 }
