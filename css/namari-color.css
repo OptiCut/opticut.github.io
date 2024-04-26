@@ -123,11 +123,21 @@ a:hover, #header.nav-solid nav a:hover {
 
 /* Banner Background and Text Colors */
 
-#banner {
-    background: url("../images/banner-images/banner-image-2.jpg") no-repeat center top;
-    background-size:cover;
-}
-
+@media only screen and (min-width: 992px) {
+    #banner {
+      background: url("../images/banner-images/banner-image-2.jpg") no-repeat
+        center top;
+      background-size: cover;
+    }
+  }
+  
+  @media only screen and (max-width: 991.999px) {
+    #banner {
+      background: url("../images/banner-images/banner-image-1.jpg") no-repeat
+        center top;
+      background-size: cover;
+    }
+  }
 
 /*------------------------------------------------------------------------------------------*/
 /* 5. Typography */
